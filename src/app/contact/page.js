@@ -1,4 +1,4 @@
-const Contact = ()=>{
+const ContactPage = ()=>{
     return (
         <div>Contact page</div>
     )
