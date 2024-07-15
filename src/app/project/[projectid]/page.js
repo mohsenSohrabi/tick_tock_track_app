@@ -1,7 +1,7 @@
-const DynamicPrjectPage = () => {
+const ProjectDetailPage = () => {
     return (
         <div> Dynamic Project page</div>
     )
 }
 
-export default DynamicPrjectPage;
+export default ProjectDetailPage;
