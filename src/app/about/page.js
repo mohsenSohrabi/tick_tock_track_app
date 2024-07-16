@@ -4,4 +4,4 @@ const AboutPage = ()=>{
     )
 }
 
-export default About;
+export default AboutPage;
